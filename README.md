@@ -6,7 +6,7 @@ The input to the algorithm:
       
       
       
-<img src = "https://user-images.githubusercontent.com/61092649/131712858-1b7d0ba7-8a64-425d-bf14-493d79395499.jpg", width = "100" height = "100">
+!<img src = "https://user-images.githubusercontent.com/61092649/131712858-1b7d0ba7-8a64-425d-bf14-493d79395499.jpg" width = "100" height = "100">
       
       
       -- The load of the charging station (in a hour basis)
